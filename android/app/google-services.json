@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527067217974",
+    "project_id": "basvuru-uygulamasi-c9ba0",
+    "storage_bucket": "basvuru-uygulamasi-c9ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527067217974:android:a18b1d30dc2e07a2d91897",
+        "android_client_info": {
+          "package_name": "com.example.basvuru_uygulamasi_41"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527067217974-ilce0hbgvph5outh1u3062ujradq46mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvRgTfUSK_RQkzxYrRR4vmzZHMzpV2UMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527067217974-ilce0hbgvph5outh1u3062ujradq46mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
